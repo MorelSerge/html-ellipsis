@@ -1,5 +1,5 @@
 name: html_ellipsis
-description: A starting point for Dart libraries or applications.
+description: A HTML ellipsis utility function for Dart
 version: 1.0.0
 repository: https://github.com/Vluf/html-ellipsis
 
